@@ -12,7 +12,8 @@
 	* **沟通能力**；
 	* **学习和思考能力**。
 5. [敏捷方法](http://baike.baidu.com/link?url=n27Suiteeyeb7F-Ds9Bk1xNad_dznudJNPaeLLm8YI0xH375RMsqcTLbnwu-pOLFOmATOvM-dYbkZiTnLMs_L_)  
-```摆脱死板规则，丢弃既有的日程表，注重实时反馈。
+```
+摆脱死板规则，丢弃既有的日程表，注重实时反馈。
 ```  
 敏捷方法的思想和实践有很多是与良好的认知习惯相融合。  
 6. 从新手到专家  
@@ -30,3 +31,4 @@
 My Email: <linlisep10@163.com>  
 
 [1]:http://baike.baidu.com/link?url=5nNliLdI6LepnVfE7lt_fTjp5Z-XjVHqA6AIy7pehnbjkzf4opUzs1ai-YajlUInQsZM4YqEbxzRhZuTuuqzJIa8XRz35kbXeHANK5E9UBe
+
